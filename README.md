@@ -1,5 +1,5 @@
 # US-Regional-Sales-Analysis
-![Alt text](/../<dashboard>/path/to/image.png?raw=true "Optional Title")
+![Alt text](https://github.com/NikhilBarjatia/US-Regional-Sales-Analysis/blob/main/Dashboard.png?raw=true "Optional Title")
 ## Technology
 #### Business Intelligence
 ## Domain
